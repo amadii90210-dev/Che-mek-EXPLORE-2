@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chełmek",
+      "hasCanvas": true,
+      "bodyTextLen": 51,
+      "bodyTextHash": "15c37283b7e8438ae5ccfc9d28570dcfbc85b9ad6ace87d924654b2e62bd75d4",
+      "bodyTextPrefix": "MAŁOPOLSKIE · 32-660 Chełmek Otwieram mapę Chełmka…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chełmek",
+      "hasCanvas": true,
+      "bodyTextLen": 51,
+      "bodyTextHash": "15c37283b7e8438ae5ccfc9d28570dcfbc85b9ad6ace87d924654b2e62bd75d4",
+      "bodyTextPrefix": "MAŁOPOLSKIE · 32-660 Chełmek Otwieram mapę Chełmka…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
